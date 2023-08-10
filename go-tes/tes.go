@@ -1,5 +1,5 @@
-package tes
+package go_tes
 
 func Tes() string {
-	return "Halo"
+	retun"Hallo"
 }
